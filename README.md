@@ -1,3 +1,4 @@
+
 ### study-of-basic-gates
 
 **AIM:** 
@@ -66,8 +67,8 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ```
- Developed by: Tharshini.M
- RegisterNumber: 24900038
+ Developed by: Jeya shivani.S
+ RegisterNumber: 24010976
 ```
 ```python
 module LOGIC_GATES(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
@@ -106,5 +107,4 @@ endmodule
 **Result:**
 
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
-
 
